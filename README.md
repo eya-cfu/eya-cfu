@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **eya.zaoui@insat.ucar.tn.**
 
-- 📄 Know about my experiences in my [resume.](https://drive.google.com/file/d/1JrdStIeklKpvW_0EC1CjEl3VSofHySQR/view?usp=sharing)
+- 📄 Know about my experiences in my [resume.](https://drive.google.com/file/d/1YPlt3xBOPzRrZ_r5KqaJ0ueUugBxyRVY/view?usp=sharing)
 
 - ⚡ Fun fact **twice a Google intern!**
 
