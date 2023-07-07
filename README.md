@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eya Zaoui</h1>
 <h3 align="center">A passionate backend developer from Tunisia</h3>
 
-- 🔭 I’m currently working on **DevOps projects with Jenkins.**
+- 🔭 I’m currently working on **Data pipelines.**
 
-- 👯 I’m looking to work on **backend projects in Web/Mobile, microservices, Cloud solutions, or system integration.**
+- 👯 I’m looking to work on **DevOps, Cloud solutions, or Systems Engineering.**
 
 - 💬 Ask me about **Java, Cloud Computing, and SRE.**
 
