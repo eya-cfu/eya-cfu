@@ -5,13 +5,13 @@
 
 - 👯 I’m looking to work on **backend projects in Web/Mobile, microservices, Cloud solutions, or system integration.**
 
-- 💬 Ask me about **Java, Cloud Computing, and microservices.**
+- 💬 Ask me about **Java, Cloud Computing, and SRE.**
 
 - 📫 How to reach me **eya.zaoui@insat.ucar.tn.**
 
-- 📄 Know about my experiences in my [resume.](https://drive.google.com/file/d/1YPlt3xBOPzRrZ_r5KqaJ0ueUugBxyRVY/view?usp=sharing)
+- 📄 Know about my experiences in my [resume.](https://drive.google.com/file/d/1vTQX8eNFSk8MSJRzRm155zi8ASBFn9OD/view?usp=sharing)
 
-- ⚡ Fun fact **twice a Google intern!**
+- ⚡ Fun fact **My total tenure as a Google intern is 1 full year!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
