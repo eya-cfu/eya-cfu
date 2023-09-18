@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eya Zaoui</h1>
-<h3 align="center">A passionate backend developer from Tunisia</h3>
+<h3 align="center">A passionate backend software engineer from Tunisia</h3>
 
 - 🔭 I’m currently working on **Big Data processing pipelines.**
 
