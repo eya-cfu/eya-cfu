@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eya Zaoui</h1>
-<h3 align="center">A backend software engineer from Tunisia</h3>
+<h3 align="center">A Google SRE from Tunisia</h3>
 
-- 🔭 I’m currently working on **Big Data processing pipelines.**
+- 🔭 I like working on **Big Data processing pipelines.**
 
 - 👯 I’m looking to work on **DevOps, Cloud solutions, or Systems Engineering.**
 
@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences in my [resume.](https://drive.google.com/file/d/1Mb0R6s2l6e2LhNKbkW_O6S5ux9UEzSek/view?usp=drivesdk)
 
-- ⚡ Fun fact **My total tenure as a Google intern is 1 full year!** (over 3 internships)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
